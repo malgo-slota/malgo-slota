@@ -1,6 +1,7 @@
-### Hi there 👋
 
-![CodeWars Badge](url "https://www.codewars.com/users/malgo-s/badges/large")
+### My CodeWars profile
+[![CodeWars Badge](https://www.codewars.com/users/malgo-s/badges/large)](https://codewars.com)
+
 
 <!--
 **malgo-slota/malgo-slota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
