@@ -1,7 +1,6 @@
 ### I'm currently learning:
 
-  - React.js (already familiar with basics aka components, props, state, keys and lists)
-
+  - React.js
 
 ### My CodeWars profile:
 
