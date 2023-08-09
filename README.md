@@ -1,7 +1,8 @@
 ## I'm currently working on:
 
-  - 100 days css challenge
-  - learning TypeScript
+  - Kanban app
+  - learning TypeScript and Redux
+  - learning design patterns 
 
 ## Tech stack:
 
