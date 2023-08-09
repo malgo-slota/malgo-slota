@@ -1,6 +1,6 @@
 ## I'm currently working on:
 
-  - Kanban app
+  - building Kanban app
   - learning TypeScript and Redux
   - learning design patterns 
 
